@@ -1,0 +1,125 @@
+body {
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #898989;
+    /*padding-top: 109px;*/
+}
+header {
+    background-color: #fcdb00;
+    padding: 20px 0;
+}
+.menu ul li a {
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    padding: 0 30px !important;
+}
+.slider {
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+.c_ind {
+    bottom: -80px;
+}
+.s_text {
+    margin-top: 50px;
+}
+.s_text h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+.s_text h2 {
+    margin: 20px 0;
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;
+}
+.s_text p {
+    margin-bottom: 35px;
+    color: #555555;
+}
+
+.f_item {
+    margin-top: 70px;
+}
+.f_icon i {
+    margin-top: 2px;
+    font-size: 50px;
+    color: #010101;
+    transition: .5s;
+}
+.f_text p {
+    letter-spacing: 1px;
+}
+.f_icon i {
+    margin-top: 2px;
+    font-size: 50px;
+    color: #010101;
+    transition: .5s;
+}
+.f_text h2 {
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+}
+.f_text p {
+    letter-spacing: 1px;
+}
+
+.contact {
+    background-color: #010101;
+}
+.c_padding {
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+.yellow {
+    color: #fcdb00;
+}
+.ash {
+    color: #898989;
+}
+.c_form {
+    margin-top: 35px;
+    margin-bottom: 70px;
+}
+.c_imput {
+    height: 55px;
+    font-family: "PT Sans", sans-serif;
+    color: #898989;
+    padding: 15px 25px;
+}
+.c_submit {
+    width: 100%;
+    height: 50px;
+    background-color: #fcdb00;
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #010101;
+    text-transform: uppercase;
+}
+.c_icon li i {
+    font-size: 42px;
+    color: #fcdb00;
+    transition: .5s;
+}
+footer {
+    background-color: #010101;
+    padding-bottom: 120px;
+}
+.f_1 address {
+    color: white;
+}
+.f_2 p a {
+    color: white;
+    text-decoration: none;
+}
+.s_icon ul li i {
+    color: #010101;
+    font-size: 42px;
+    transition: .3s;
+}
